@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377978954273",
+    "project_id": "badminton-accessories",
+    "storage_bucket": "badminton-accessories.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377978954273:android:ab91e731f9ed4abbe57960",
+        "android_client_info": {
+          "package_name": "com.example.badminton_accessories_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQv3YE-CQQD_vr2AieEcrOfVPhLi9Im4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
