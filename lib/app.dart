@@ -18,6 +18,7 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
 
+    _authCubit = AuthCubit();
     _routes = Routes(_authCubit);
   }
 

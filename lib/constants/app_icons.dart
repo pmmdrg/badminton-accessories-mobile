@@ -25,6 +25,7 @@ class AppIcons {
   static const String photoIcon = 'photo';
   static const String sendIcon = 'send';
   static const String fireIcon = 'fire';
+  static const String googleIcon = 'google';
 
   static String getIcon(String icon) => '$_basePath$icon.svg';
 }
